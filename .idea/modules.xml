@@ -10,7 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/CodigosDeAltaPerformance.iml" filepath="$PROJECT_DIR$/.idea/CodigosDeAltaPerformance.iml" />
       <module fileurl="file://$PROJECT_DIR$/FilasEncadeadas/FilasEncadeadas.iml" filepath="$PROJECT_DIR$/FilasEncadeadas/FilasEncadeadas.iml" />
       <module fileurl="file://$PROJECT_DIR$/FilasSequenciais/FilasSequenciais.iml" filepath="$PROJECT_DIR$/FilasSequenciais/FilasSequenciais.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ListasEncadeadasGenericaa/ListasEncadeadasGenericas.iml" filepath="$PROJECT_DIR$/ListasEncadeadasGenericaa/ListasEncadeadasGenericas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ListasEncadeadasGenericas/ListasEncadeadasGenericas.iml" filepath="$PROJECT_DIR$/ListasEncadeadasGenericas/ListasEncadeadasGenericas.iml" />
     </modules>
   </component>
 </project>
